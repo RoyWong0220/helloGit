@@ -5,5 +5,6 @@ public class HelloGit {
 		System.out.println("添加main方法");
 		System.out.println("dev 分支添加");
 		System.out.println("master 主分支在第7行添加");
+		System.out.println("dev分支在第7行添加");
 	}
 }
